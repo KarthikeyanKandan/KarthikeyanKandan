@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @KarthikeyanKandan
 - 👀 I’m interested in data and always love how to put data into good use
-- 🌱 I’m currently learning new technologies for Data Engineering
-- 💞️ I’m looking to collaborate on projects with either atleast one of the following tools - python, spark, postgresql, airflow and aws cloud resources
+- 🌱 I’m currently learning new technologies for Business Analysis and Data Engineering
